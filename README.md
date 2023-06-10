@@ -4,3 +4,5 @@ In this study, a web-based interface has been designed to predict the tertiary s
 [http://bioinf.modares.ac.ir/software/easymodel/](http://bioinf.modares.ac.ir/software/easymodel/).
 
 **EasyModel provides a straightforward graphical interface for Modeller that can be used in only one browser.**
+
+![Result](http://bioinf.modares.ac.ir/software/easymodel/Screenshot-of-EasyModel.jpg)
