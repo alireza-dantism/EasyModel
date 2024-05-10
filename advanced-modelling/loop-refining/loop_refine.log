@@ -1,0 +1,218 @@
+
+                         MODELLER 10.1, 2021/03/12, r12156
+
+     PROTEIN STRUCTURE MODELLING BY SATISFACTION OF SPATIAL RESTRAINTS
+
+
+                     Copyright(c) 1989-2021 Andrej Sali
+                            All Rights Reserved
+
+                             Written by A. Sali
+                               with help from
+              B. Webb, M.S. Madhusudhan, M-Y. Shen, G.Q. Dong,
+          M.A. Marti-Renom, N. Eswar, F. Alber, M. Topf, B. Oliva,
+             A. Fiser, R. Sanchez, B. Yerkovich, A. Badretdinov,
+                     F. Melo, J.P. Overington, E. Feyfant
+                 University of California, San Francisco, USA
+                    Rockefeller University, New York, USA
+                      Harvard University, Cambridge, USA
+                   Imperial Cancer Research Fund, London, UK
+              Birkbeck College, University of London, London, UK
+
+
+Kind, OS, HostName, Kernel, Processor: 4, Linux bioinf 5.15.0-86-generic x86_64
+Date and time of compilation         : 2021/03/12 00:18:43
+MODELLER executable type             : x86_64-intel8
+Job starting time (YY/MM/DD HH:MM:SS): 2024/01/22 17:02:22
+
+openf___224_> Open           $(LIB)/restyp.lib
+openf___224_> Open           ${MODINSTALL10v1}/modlib/resgrp.lib
+rdresgr_266_> Number of residue groups:        2
+openf___224_> Open           ${MODINSTALL10v1}/modlib/sstruc.lib
+
+Dynamically allocated memory at   amaxlibraries [B,KiB,MiB]:       191566     187.076     0.183
+
+Dynamically allocated memory at   amaxlibraries [B,KiB,MiB]:       192094     187.592     0.183
+openf___224_> Open           ${MODINSTALL10v1}/modlib/resdih.lib
+
+Dynamically allocated memory at   amaxlibraries [B,KiB,MiB]:       240694     235.053     0.230
+rdrdih__263_> Number of dihedral angle types         :        9
+              Maximal number of dihedral angle optima:        3
+              Dihedral angle names                   :  Alph Phi Psi Omeg chi1 chi2 chi3 chi4 chi5
+openf___224_> Open           ${MODINSTALL10v1}/modlib/radii.lib
+
+Dynamically allocated memory at   amaxlibraries [B,KiB,MiB]:       253994     248.041     0.242
+openf___224_> Open           ${MODINSTALL10v1}/modlib/af_mnchdef.lib
+rdwilmo_274_> Mainchain residue conformation classes:  APBLE
+openf___224_> Open           ${MODINSTALL10v1}/modlib/mnch.lib
+rdclass_257_> Number of classes:        5
+openf___224_> Open           ${MODINSTALL10v1}/modlib/mnch1.lib
+openf___224_> Open           ${MODINSTALL10v1}/modlib/mnch2.lib
+openf___224_> Open           ${MODINSTALL10v1}/modlib/mnch3.lib
+openf___224_> Open           ${MODINSTALL10v1}/modlib/xs4.mat
+rdrrwgh_268_> Number of residue types:       21
+openf___224_> Open           ${LIB}/top_heav.lib
+read_to_681_> topology.submodel read from topology file:        3
+openf___224_> Open           ${LIB}/par.lib
+
+Dynamically allocated memory at  amaxparameters [B,KiB,MiB]:       402809     393.368     0.384
+
+Dynamically allocated memory at  amaxparameters [B,KiB,MiB]:       404409     394.931     0.386
+
+Dynamically allocated memory at  amaxparameters [B,KiB,MiB]:       408389     398.817     0.389
+
+Dynamically allocated memory at  amaxparameters [B,KiB,MiB]:       410389     400.771     0.391
+
+Dynamically allocated memory at  amaxparameters [B,KiB,MiB]:       413389     403.700     0.394
+
+Dynamically allocated memory at  amaxparameters [B,KiB,MiB]:       417889     408.095     0.399
+
+Dynamically allocated memory at  amaxparameters [B,KiB,MiB]:       423461     413.536     0.404
+
+Dynamically allocated memory at  amaxparameters [B,KiB,MiB]:       426261     416.271     0.407
+
+Dynamically allocated memory at  amaxparameters [B,KiB,MiB]:       430461     420.372     0.411
+
+Dynamically allocated memory at  amaxparameters [B,KiB,MiB]:       436761     426.524     0.417
+
+Dynamically allocated memory at  amaxparameters [B,KiB,MiB]:       439533     429.231     0.419
+
+Dynamically allocated memory at  amaxparameters [B,KiB,MiB]:       440933     430.599     0.421
+read_pa_232_> parameters    BONDS   ANGLS  DIHEDS IMPROPS    MODE
+                              227     561     661     112       0
+openf___224_> Open           $(LIB)/atmcls-melo.lib
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       441375     431.030     0.421
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       441439     431.093     0.421
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       441503     431.155     0.421
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       441631     431.280     0.421
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       441823     431.468     0.421
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       442079     431.718     0.422
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       442463     432.093     0.422
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       443039     432.655     0.423
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       443089     432.704     0.423
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       443147     432.761     0.423
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       444043     433.636     0.423
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       445387     434.948     0.425
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       445453     435.013     0.425
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       447437     436.950     0.427
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       447593     437.103     0.427
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       450601     440.040     0.430
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       450895     440.327     0.430
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       451399     440.819     0.430
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       452395     441.792     0.431
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       456875     446.167     0.436
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       458909     448.153     0.438
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       463361     452.501     0.442
+openf___224_> Open           $(LIB)/melo1-dist.lib
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       463757     452.888     0.442
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       464553     453.665     0.443
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       465349     454.442     0.444
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       466537     455.603     0.445
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       466937     455.993     0.445
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       467537     456.579     0.446
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       468437     457.458     0.447
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       469785     458.774     0.448
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       471809     460.751     0.450
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       472009     460.946     0.450
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       475045     463.911     0.453
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       475345     464.204     0.453
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       479897     468.649     0.458
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       480345     469.087     0.458
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       487173     475.755     0.465
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       487845     476.411     0.465
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       498089     486.415     0.475
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       499097     487.399     0.476
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       499697     487.985     0.477
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       500097     488.376     0.477
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       515461     503.380     0.492
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       516973     504.856     0.493
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       517873     505.735     0.494
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       518473     506.321     0.494
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       541521     528.829     0.516
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       543789     531.044     0.519
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       545133     532.356     0.520
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       546033     533.235     0.521
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       580605     566.997     0.554
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       584009     570.321     0.557
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       586025     572.290     0.559
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       587373     573.606     0.560
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       639229     624.247     0.610
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       644333     629.231     0.614
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       647357     632.185     0.617
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       649381     634.161     0.619
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       727165     710.122     0.693
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       734821     717.599     0.701
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       739357     722.028     0.705
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       742393     724.993     0.708
+
+Dynamically allocated memory at amaxgroup_restr [B,KiB,MiB]:       859069     838.935     0.819
+read_pa_232_> parameters    BONDS   ANGLS  DIHEDS IMPROPS    MODE
+                                0       0       0       0     820
+pdbnam_____E> Filename for PDB code not found: neurosnap_rosetta.pdb
+              Directories: .:../atom_files
+              Extensions : :.atm:.pdb:.ent:.cif:.crd
+              (Also tried prepending 'pdb', looking for .Z, .gz, .bz2, .7z, .xz,
+              and trying PDB-style subdirectories - e.g. ab for pdb1abc.ent)
+
